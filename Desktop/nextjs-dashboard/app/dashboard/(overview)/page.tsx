@@ -8,7 +8,7 @@ import {
   LatestInvoicesSkeleton,
   CardsSkeleton,
 } from '@/app/ui/skeletons';
-
+ 
 export default async function Page() {
   return (
     <main>
